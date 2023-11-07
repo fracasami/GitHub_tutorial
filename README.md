@@ -1,2 +1,2 @@
 # GitHub_tutorial
- repository from LabVIEW and GitHub tutorial
+ This repository was created to train for the "LabVIEW and GitHub" tutorial
